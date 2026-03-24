@@ -1,2 +1,3 @@
 Hi from Branch A!
+Hi from Branch B!
 I'm learning Git.
