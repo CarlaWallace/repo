@@ -3,3 +3,4 @@ Hi from Branch B!
 I'm learning Git.
 This change is for gitHub!
 some work in progress!!
+Bugfix change.
