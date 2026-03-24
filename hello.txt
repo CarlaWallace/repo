@@ -1,2 +1,2 @@
-Hello World!
+Hi from Branch A!
 I'm learning Git.
